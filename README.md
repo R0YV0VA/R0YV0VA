@@ -5,13 +5,10 @@
 
 ## What I work with
 
-I am proficient in several programming languages and technologies, including:
+I am proficient in several programming languages, including:
+- Python
 - .NET
 - C/C++(a little🤔)
-- ReactJS
-- JavaScript
-- TypeScript
-- NodeJS
 
 ## Projects
 
